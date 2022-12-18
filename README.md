@@ -10,6 +10,6 @@ for the local apis
 1. Download the repo from : https://github.com/TheAnurag/react-native-assignment
 2. Follow the steps in the Readme.md file of the repo to run.
 
-Make sure your API are running at http://127.0.0.1:8080
+Make sure your APIs are running at http://127.0.0.1:8080
 
 Thanks
